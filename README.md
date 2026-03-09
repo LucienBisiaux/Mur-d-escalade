@@ -72,8 +72,7 @@ Projet réalisé en collaboration avec mon père, de la phase de conception jusq
 
 ##  Galerie
 
-(Photos du mur, du mécanisme, des plans 3D et des différentes étapes de construction)
-
+<img src="Capture%20d%E2%80%99e%CC%81cran%202026-02-26%20a%CC%80%2019.47.09.png" width="600">
 ---
 
 ##  Perspectives d’amélioration
