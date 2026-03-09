@@ -71,9 +71,8 @@ Projet réalisé en collaboration avec mon père, de la phase de conception jusq
 ---
 
 ##  Galerie
-## Galerie
 
-![Mur d'escalade](Capture d’écran 2026-02-26 à 19.47.09.png)
+![Mur escalade](images/mur-escalade.png)
 
 ---
 
